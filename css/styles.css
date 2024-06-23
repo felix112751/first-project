@@ -1,0 +1,73 @@
+#header{
+
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+}
+
+
+nav{
+
+display: flex;
+justify-content: end;
+
+}
+
+nav a{
+    color: black
+    text-decoration: none;
+    font-size:larger;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+
+}
+
+
+body{
+    background-color: blueviolet;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+
+}
+
+p{
+    color: aqua;
+    font-style: oblique;
+    font-weight: 1000px;
+    padding: 50px;
+    text-align: center;
+    font-size: large;
+}
+
+#Main section{
+    display: flex;
+    flex-direction: row;
+     padding: 50px; 
+
+
+}
+
+h3{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+ img{
+    padding-left: 700px;
+    border-radius: 10px;
+ }
+  .description p{
+    padding-bottom: 90px;
+  }
+
+  li{text-align: center;}
